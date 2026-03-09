@@ -18,6 +18,7 @@
 - **Editor**: VS Code
 
 ## 📜 Disclaimer
-These drawings and programs were created by me as part of coursework. Please do not copy for direct academic submission.
+These programs were created by me as part of coursework in c lab. 
 
-**Author**: NileX (@nilkamalgiri22-lab)
+## Author
+[@nilkamalgiri22-lab](https://github.com/nilkamalgiri22-lab)
